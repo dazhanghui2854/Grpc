@@ -1,2 +1,0 @@
-# Grpc
-golang rpc demo
